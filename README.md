@@ -16,4 +16,4 @@ HTML provides the structural foundation of the platform. It organizes course mat
 One of the most important outcomes of this project is improved accessibility. Students can access educational content anytime and anywhere. This flexibility supports self-paced learning, which is especially beneficial for working professionals and remote learners. Interactive elements such as quizzes and instant feedback help reinforce understanding and encourage active participation rather than passive content consumption.
 Additionally, developing such a platform strengthens practical web development skills. It enhances knowledge of responsive design, DOM manipulation, event handling, local storage usage, and UI/UX principles. These skills are highly valuable in today’s job market, especially in fields related to web development, educational technology, and software engineering.
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9452adad-6340-4e59-ae25-60fcf4cd5e96" />
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/21f3935d-a3c7-48b3-97cb-70f59a3eba81" />
